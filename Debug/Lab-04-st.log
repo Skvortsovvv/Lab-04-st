@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\user-pc\source\repos\Lab-04-st\Header.h(17,65): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user-pc\source\repos\Lab-04-st\Header.h(43,76): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user-pc\source\repos\Lab-04-st\Header.h(54,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user-pc\source\repos\Lab-04-st\Header.h(56,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user-pc\source\repos\Lab-04-st\Header.h(56,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab-04-st.vcxproj -> C:\Users\user-pc\source\repos\Lab-04-st\Debug\Lab-04-st.exe
